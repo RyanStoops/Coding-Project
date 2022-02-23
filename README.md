@@ -1,11 +1,11 @@
-Three Batters Up
+# Three Batters Up
 
-Game Overview:
+##  Game Overview:
 You are an MLB pitcher, facing three different batters. The batters are either eager to swing or cautious. If they’re eager, they will swing at most pitches. If they’re cautious, they are less likely to swing. The type of batter will be identified before you pitch. The goal is to trick the eager batters to swing at tough pitches and not the strikes. This decreases their odds of hitting the ball. Additionally, you don’t want the cautious batters to swing at your strikes. You will earn points per the scoring list below.
 
 ********************************************************************************************************************************************************************
 
-How to play:
+##  How to play:
 
 Before you pitch, the type of batter you face will be identified.
 
@@ -31,7 +31,8 @@ After each pitch, the batter count (strikes and balls) will be shown, or you wil
 
 ********************************************************************************************************************************************************************
 
-Scoring and How to Win:
+##  Scoring and How to Win:
+
 Strike: 1 point
 Ball: -1 point
 Strikeout: 3 points
