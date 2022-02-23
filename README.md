@@ -12,27 +12,19 @@ Before you pitch, the type of batter you face will be identified.
 For each pitch, you can throw three different types of pitches, a fastball, curveball, or slider.
 
 
-Speed of Pitch      Change in Accuracy             Change in Difficulty    
                                                                            
-Fastball          High odds of being a strike     High odds of being hit  
-
+Fastball:  High odds of being a strike    High odds of being hit  
                                                                            
- Curveball         Medium odds of being a strike  Medium odds of being hit 
-
-                                                                           
- Slider            Low odds of being a strike     Low odds of being hit    
-
-
+Curveball: Medium odds of being a strike  Medium odds of being hit 
+                                                                        
+Slider:    Low odds of being a strike     Low odds of being hit    
 
 Additionally, you can throw your chosen pitch at a high velocity, or a low velocity. This changes the chances of a pitch being a strike, and it changes the chances of a pitch being hit.
-_______________________________________________________________________________
-|Speed of Pitch   |   Change in Accuracy           |  Change in Difficulty    |
-|                 |  Slightly decreases the odds   |                          |
-| Fast            |  of any pitch being a strike   |  Lower odds of being hit |
-|_____________________________________________________________________________|
-|                 |  Slightly increases the odds   |                          |
-| Slow            |  of any pitch being a strike   |  Higher odds of being hit|
-|_____________________________________________________________________________|
+
+ Fast: Slightly decreases the odds of any pitch being a strike     Lower odds of being hit 
+
+ Slow: Slightly increases the odds of any pitch being a strike     Higher odds of being hit
+
 
 The speed of a pitch acts as microadjustment, for example, a slow slider is still more difficult to hit than a fast curveball. A fast fastball is still more likely to be a strike than a slow curveball.
 
