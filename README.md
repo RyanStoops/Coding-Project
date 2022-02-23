@@ -11,17 +11,18 @@ Before you pitch, the type of batter you face will be identified.
 
 For each pitch, you can throw three different types of pitches, a fastball, curveball, or slider.
 
-_______________________________________________________________________________
-|Speed of Pitch   |   Change in Accuracy           |  Change in Difficulty    |
-|                 |                                |                          |
-| Fastball        |  High odds of being a strike   |  High odds of being hit  |
-|_____________________________________________________________________________|
-|                 |                                |                          |
-| Curveball       |  Medium odds of being a strike | Medium odds of being hit |
-|_____________________________________________________________________________|
-|                 |                               |                           |
-| Slider          |  Low odds of being a strike   |  Low odds of being hit    |
-|_____________________________________________________________________________|
+
+Speed of Pitch      Change in Accuracy             Change in Difficulty    
+                                                                           
+Fastball          High odds of being a strike     High odds of being hit  
+
+                                                                           
+ Curveball         Medium odds of being a strike  Medium odds of being hit 
+
+                                                                           
+ Slider            Low odds of being a strike     Low odds of being hit    
+
+
 
 Additionally, you can throw your chosen pitch at a high velocity, or a low velocity. This changes the chances of a pitch being a strike, and it changes the chances of a pitch being hit.
 _______________________________________________________________________________
