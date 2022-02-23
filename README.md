@@ -33,11 +33,11 @@ After each pitch, the batter count (strikes and balls) will be shown, or you wil
 
 ##  Scoring and How to Win:
 
-Strike: 1 point
-Ball: -1 point
-Strikeout: 3 points
-Walk: -2 points
-Hit: -1 point
+* Strike: 1 point
+* Ball: -1 point
+* Strikeout: 3 points
+* Walk: -2 points
+* Hit: -1 point
 
 It takes three strikes to get a strikeout, and four balls to get a walk.
 
