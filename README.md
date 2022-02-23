@@ -42,3 +42,5 @@ After each pitch, the batter count (strikes and balls) will be shown, or you wil
 It takes three strikes to get a strikeout, and four balls to get a walk.
 
 10 points are needed at the end of the game, in order to win.
+
+Recommended IDE: Eclipse
